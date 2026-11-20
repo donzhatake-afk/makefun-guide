@@ -1,8 +1,8 @@
 # Earn USDC by Building Software with an AI Agent: A Beginner's Guide to make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/__OWNER__/__REPO__/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/__OWNER__/__REPO__/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/donzhatake-afk/makefun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/donzhatake-afk/makefun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 > **Start here:** sign up through my referral link — [https://make.fun/r/jmp4ee3d](https://make.fun/r/jmp4ee3d)
 >
